@@ -89,4 +89,4 @@ Use the average temperature as the bar height.
 
 Use the peak-to-peak (TMAX-TMIN) value as the y error bar (YERR).
 
-Analysis:
+Analysis: The best time to vacation in Hawaii is in August according to 2017 data.
