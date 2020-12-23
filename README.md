@@ -94,3 +94,7 @@ Analysis: The best time to vacation in Hawaii is in August according to 2017 dat
 This was not done in a day, pulled from homework repository.
 
 ![image](https://user-images.githubusercontent.com/66101341/101559867-48cdaa80-397f-11eb-8c14-876019ba5abb.png)
+
+![image](https://user-images.githubusercontent.com/66101341/101559893-5c791100-397f-11eb-95b8-d52b91a68aa0.png)
+
+![image](https://user-images.githubusercontent.com/66101341/101559931-69960000-397f-11eb-932d-102c66b7fe9e.png)
